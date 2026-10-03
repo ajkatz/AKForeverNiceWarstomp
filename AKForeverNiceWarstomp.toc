@@ -1,0 +1,13 @@
+## Interface: 16001
+## Version: @project-version@
+## Title: AKForeverNiceWarstomp
+## Notes: A Tauren's War Stomp that lands deserves to be called: NICE WARSTOMP with an exclamation mark for every target it stunned (NICE WARSTOMP!!!) - out loud, in /yell.
+## Author: Purrdee
+## X-License: MIT
+## IconTexture: Interface\AddOns\AKForeverNiceWarstomp\icon
+## SavedVariables: AKForeverNiceWarstompDB
+
+Core.lua
+Stomp.lua
+Call.lua
+Diagnostics.lua
