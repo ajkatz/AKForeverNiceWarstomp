@@ -4,6 +4,7 @@
 ## Notes: A Tauren's War Stomp that lands deserves to be called: NICE WARSTOMP with an exclamation mark for every target it stunned (NICE WARSTOMP!!!) - out loud, in /yell.
 ## Author: Purrdee
 ## X-License: MIT
+## X-Curse-Project-ID: 1725802
 ## IconTexture: Interface\AddOns\AKForeverNiceWarstomp\icon
 ## SavedVariables: AKForeverNiceWarstompDB
 
