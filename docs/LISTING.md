@@ -20,7 +20,7 @@ A Tauren's War Stomp that lands deserves to be called. **When a Tauren near you 
 ### Commands
 
 - `/ws on` / `off` - call War Stomps (default) / no calls at all
-- `/ws yell on|off` - the call in /yell (default on); `/ws screen on` puts it across your screen as well, with a sound
+- `/ws yell on|off` - the call in /yell (default on); `/ws screen on` puts it across your screen as well, with a sound (`/ws sound off` for the text alone)
 - `/ws mine on|off` - your own stomps too (default off)
 - `/ws others guess|sure|off` - other Taurens: the half-second-cast guess (default), only the casts the client names, none
 - `/ws test 4` - a NICE WARSTOMP!!!! as if one had landed; `/ws stats`, `/ws diag` - the session's counts; a report for bug reports
